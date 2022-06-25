@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Personal Budgeting App</string>
+<!--    <string name="default_web_client_id" translatable="false">501768445243-50up7i2s971dvunomloekca6i7qaqf3c.apps.googleusercontent.com</string>-->
+    <string-array name="items">
+        <item>Select item</item>
+        <item>Transport</item>
+        <item>Food</item>
+        <item>House</item>
+        <item>Entertainment</item>
+        <item>Education</item>
+        <item>Charity</item>
+        <item>Apparel</item>
+        <item>Health</item>
+        <item>Personnel</item>
+        <item>Other</item>
+    </string-array>
+</resources>
